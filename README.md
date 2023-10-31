@@ -1,3 +1,5 @@
+#Qr Code Generator
+<img src="https://i.postimg.cc/1tm2nhKW/Screenshot-2023-10-31-204623.png"/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
